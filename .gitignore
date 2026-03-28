@@ -1,0 +1,10 @@
+# Build output
+**/dist/
+**/www/
+**/android/
+**/ios/
+**/build/
+
+# OS / IDE files
+.DS_Store
+.vscode/
