@@ -1,5 +1,8 @@
-# Mouse Trap
-- A simple experimental project built with Vue and Capacitor that gathers device information.
+<h1 align="center">Mouse Trap</h1>
+<p align="center">
+A simple experimental project built with Vue and Capacitor that gathers device information.
+<br>(https://www.youtube.com/@imjcdev)
+</p>
 
 ## Features:
 1. Battery Information: 
@@ -52,3 +55,11 @@ OR
 ```
 ### After this, your APK will be located at:
 `android/app/build/outputs/apk/debug/app-debug.apk`
+
+# Disclaimer:
+#### This project is for educational purposes only
+
+# Credits:
+- To the Tools that inspired me to build this
+- ChatGPT – for helping me fix some errors
+- Windows Copilot – for generating images for me haha 😄
