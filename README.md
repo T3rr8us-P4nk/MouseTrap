@@ -63,3 +63,6 @@ OR
 - To the Tools that inspired me to build this
 - ChatGPT – for helping me fix some errors
 - Windows Copilot – for generating images for me haha 😄
+
+# ⚠️Note:
+- This project is still in development. Expect some bugs and incomplete features!
